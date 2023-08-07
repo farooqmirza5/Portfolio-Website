@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.54ae2481.css",
+    "main.js": "/Portfolio-Website/static/js/main.1e687b70.js",
+    "static/media/techiekids.png": "/Portfolio-Website/static/media/techiekids.f4a301006e4314406f74.png",
+    "static/media/axxonlab.png": "/Portfolio-Website/static/media/axxonlab.23f1ac25371ebb84c7ec.png",
+    "static/media/cellntrade.png": "/Portfolio-Website/static/media/cellntrade.735cbee4c5bb8ad2ff98.png",
+    "static/media/react1.jpg": "/Portfolio-Website/static/media/react1.d63ca3791694cd8f6f49.jpg",
+    "static/media/image.avif": "/Portfolio-Website/static/media/image.99fe74129bb2c17229bf.avif",
+    "static/media/react2.webp": "/Portfolio-Website/static/media/react2.8aa659a4278a7132e6f4.webp",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.54ae2481.css.map": "/Portfolio-Website/static/css/main.54ae2481.css.map",
+    "main.1e687b70.js.map": "/Portfolio-Website/static/js/main.1e687b70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54ae2481.css",
+    "static/js/main.1e687b70.js"
+  ]
+}
