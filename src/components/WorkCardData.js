@@ -43,7 +43,7 @@ const ProjectCardData = [
         imgsrc: pro5,
         title: "Basic notes app",
         text: "A basic notes app with light and dark mood.",
-        view: "notesapp.tiiny.site",
+        view: "https://farooqmirza5.github.io/notes_app/",
         source: "https://github.com/farooqmirza5/notes_app"
     },
 
